@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors Game 🎮
-(./src/image.png)
+(src/image.png)
 A simple web-based Rock, Paper, Scissors game built using **JavaScript**, **HTML**, and **CSS**.
 
 ## Features
